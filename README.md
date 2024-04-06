@@ -33,3 +33,6 @@ pip freeze > requirements.txt
 ```bash
 pip install -r requirements.txt
 ```
+
+mailed me updations
+> narwaria242ss@gmail.com

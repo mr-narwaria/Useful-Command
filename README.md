@@ -25,6 +25,11 @@ deactivate
 ```
 
 ### 3. Create requirements.txt file
+1. See the list of pip packages in the virtual environment
+```bash
+pip list
+```
+2. Create requirements.txt file
 ```bash
 pip freeze > requirements.txt
 ```

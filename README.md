@@ -38,7 +38,7 @@ pip freeze > requirements.txt
 ```bash
 pip install -r requirements.txt
 ```
-### 4. Delete any file that is not deleted normally
+### 5. Forced delete any file that is not deleted normally
 Open CMD as Admistrations and use the command
 ```bash
 del /f 'location of file'

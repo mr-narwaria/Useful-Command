@@ -41,9 +41,9 @@ pip install -r requirements.txt
 ### 4. Delete any file that is not deleted normally
 Open CMD as Admistrations and use the command
 ```bash
->del /f 'location of file'
+del /f 'location of file'
 ```
-eg. C:\Windows\System32>del /f C:\Users\Sham\Desktop\lab1
+eg. C:\Windows\System32><b>del /f C:\Users\Sham\Desktop\lab1<b>
 
 <br>
 mailed me for updations
